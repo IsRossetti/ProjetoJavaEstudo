@@ -30,6 +30,9 @@ public class VariaveisETipos {
         //long type (64 bits)
         long distance = 15000000000000L;
 
+        //non primitive types
+        String text = "Hello!";
+
         //outputs
         System.out.println("Age: " + age);
         System.out.println("Salary: " + salary);
